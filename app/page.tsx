@@ -1,2 +1,2 @@
-import FraudeCeroLanding from '../components/FraudeCeroLanding'
+import FraudeCeroLanding from './FraudeCeroLanding'
 export default function Page(){ return <FraudeCeroLanding/> }
